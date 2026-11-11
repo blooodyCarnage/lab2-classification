@@ -1,0 +1,2 @@
+Модель,Параметры,Accuracy,Precision,Recall,F1,ROC-AUC
+TensorFlow NN,"{'name': 'baseline', 'layers': [32], 'activation': 'relu', 'epochs': 30, 'batch_size': 32}",0.9912280701754386,1.0,0.9767441860465116,0.9882352941176471,1.0

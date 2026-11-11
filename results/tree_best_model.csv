@@ -1,0 +1,2 @@
+Модель,Параметры,Accuracy,Precision,Recall,F1,ROC-AUC
+DecisionTree,"{'criterion': 'entropy', 'max_depth': 5, 'min_samples_leaf': 1, 'min_samples_split': 2}",0.956140350877193,0.975,0.9069767441860465,0.9397590361445783,0.9559449721585325
